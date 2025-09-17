@@ -71,10 +71,10 @@ __________________________________________________________________
 
 ## 📌 Business Insights & Recommendations
 The model's findings provide clear, data-driven recommendations for the airline:
--**Prioritize In-flight Experience**: Focus investments on improving Inflight wifi service, Inflight entertainment, and Seat comfort, as these are the strongest drivers of satisfaction.
--**Enhance Digital Service**s: The high importance of Online boarding suggests that a seamless digital experience is critical. Continue to invest in user-friendly booking and check-in platforms.
--**Address Economy Class Needs**: Given the significant satisfaction gap, conduct further research into the specific pain points of Economy and Economy Plus passengers to develop targeted service improvements.
--**Minimize Delays**: Punctuality is crucial. Efforts to reduce departure and arrival delays will have a direct positive impact on passenger satisfaction.
+- **Prioritize In-flight Experience**: Focus investments on improving Inflight wifi service, Inflight entertainment, and Seat comfort, as these are the strongest drivers of satisfaction.
+- **Enhance Digital Service**s: The high importance of Online boarding suggests that a seamless digital experience is critical. Continue to invest in user-friendly booking and check-in platforms.
+- **Address Economy Class Needs**: Given the significant satisfaction gap, conduct further research into the specific pain points of Economy and Economy Plus passengers to develop targeted service improvements.
+- **Minimize Delays**: Punctuality is crucial. Efforts to reduce departure and arrival delays will have a direct positive impact on passenger satisfaction.
 
 ## 🛠️ Technologies Used
 - Programming Language: Python

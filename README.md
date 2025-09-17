@@ -54,14 +54,19 @@ A comparative study of six different classification algorithms was conducted to 
   - High precision/recall balance.  
   - Confusion matrix showed strong classification of both satisfied and dissatisfied classes.
  
-**    Model             Accuracy   Precision  Recall   F1-Score**
+**    Model           |  Accuracy   Precision  Recall   F1-Score**
 --------------------- ---------- ---------- -------- ----------
-> Random Forest         95.8%      0.96       0.97     0.96
-> XGBoost               94.6%      0.95       0.96     0.95
-> Decision Tree         93.9%      0.94       0.95     0.95
-> K-Nearest Neighbors   86.8%      0.88       0.89     0.88
-> Logistic Regression   80.2%      0.82       0.83     0.82
-> Naive Bayes           78.4%      0.82       0.79     0.80
+> Random Forest       |  95.8%      0.96       0.97     0.96
+---------------------------------------------------------------
+> XGBoost             |  94.6%      0.95       0.96     0.95
+--------------------------------------------------------------
+> Decision Tree       |  93.9%      0.94       0.95     0.95
+--------------------------------------------------------------
+> K-Nearest Neighbors |  86.8%      0.88       0.89     0.88
+--------------------------------------------------------------
+> Logistic Regression | 80.2%      0.82       0.83     0.82
+-------------------------------------------------------------
+> Naive Bayes         |  78.4%      0.82       0.79     0.80
  
 ## 📌 Business Insights & Recommendations
 The model's findings provide clear, data-driven recommendations for the airline:
